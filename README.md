@@ -1,5 +1,3 @@
-Here's a refined `README.md` for your **THINK-ASTA CHAT** with a clean, minimalist design focusing on key features and quick start:
-
 ```markdown
 # 🔐 THINK-ASTA CHAT  
 *Secure Terminal Chat with AI Integration*  
@@ -64,4 +62,3 @@ ngrok http 8080  # Exposes wss://[ID].ngrok.io
 4. **Command Table** - Easy to scan, covers 90% of use cases.  
 5. **Security Callout** - Clear note about API keys and DB.  
 
-Need to add a license section or contribution guidelines? Let me know!
